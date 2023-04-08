@@ -222,7 +222,7 @@
                             <div class="voucher">
                                 <div class="voucher-head">
                                     <i class="fa-solid fa-tag icon-voucher"></i>
-                                    <span class="text-voucher-head" >Mã giảm giá </span>
+                                    <span class="text-voucher-head" >Mã giảm giá đặc biệt</span>
                                 </div>
                                 <div class="text-voucher">
                                     <input type="text" class="text-voucher" placeholder="Mã Giảm Giá"> <br>
