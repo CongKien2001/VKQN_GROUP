@@ -221,8 +221,8 @@
                 </div>
             </div>
 
-            <div class="footer_copyright">Copyright © 2022 Bản quyền thuộc về DreamTeam
-                <!-- © Bản quyền thuộc về Trần Cường, Nguyễn Thanh Tiến, Đỗ Vạn Lâm -->
+            <div class="footer_copyright">Copyright © 2022 Bản quyền thuộc về VKQN_Group
+                
             </div>
         </div>
     </div>
