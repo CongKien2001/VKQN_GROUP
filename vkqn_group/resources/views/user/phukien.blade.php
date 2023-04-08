@@ -135,7 +135,7 @@
                 </div>
 
                 <div class="product_main">
-
+                    
                     @foreach ($product as $product )
                     @csrf
                         <div class="product_item">
